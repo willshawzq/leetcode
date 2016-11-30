@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|8|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JavaScript](./Algorithms/Palindrome Number/palindrome-number.js)|Easy|
 |7|[ZigZag Conversion](https://leetcode.com/problems/string-to-integer-atoi/) |[JavaScript](./Algorithms/String to Integer/string-to-integer-atoi.js)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |[JavaScript](./Algorithms/ZigZag Conversion/zigzag-conversion.js)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[JavaScript](./Algorithms/Longest Palindromic Substring/longestPalindrome.js)|Medium|
